@@ -7,7 +7,7 @@
 2. The system heats water also. **MAKE SURE THAT THE HOT WATER AND HEATING ARE NOT ON AT THE SAME TIME!**
 Why? Because, if they are both on, all the lovely hot water in the hot water cylinder will flow into the top floor underfloor heating. Your floor will be warm but your shower will be cold.
 3. The hot water system is set to on or off: you don't set a target temperature.
-3. Be careful around midnight: the controller gets mixed up if the system is on. To be on the safe side, make sure the system is switched off at 23.05, and switch it back on at 00.05.
+3. Be careful around midnight: the controller gets mixed up if the system is on. To be on the safe side, make sure the system is switched off at 23.55, and switch it back on at 00.05.
 
 ### PREREQUISITES:
 Before you program the system, make a written list of the settings you need. You'll get lost if you try to program the controller while you're figuring out what  target temperatures you should set.
